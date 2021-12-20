@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeofencingApp</string>
+    <string name="post_location">Post Location</string>
+</resources>
